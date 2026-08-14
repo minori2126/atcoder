@@ -1,0 +1,7 @@
+*.out
+*.exe
+
+atcoder/
+
+.DS_Store
+
